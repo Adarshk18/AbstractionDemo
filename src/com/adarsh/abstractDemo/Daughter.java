@@ -1,4 +1,4 @@
-package abstractDemo;
+package com.adarsh.abstractDemo;
 
 public class Daughter extends Parent {
     public Daughter(int age) {

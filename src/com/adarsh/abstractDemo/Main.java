@@ -1,4 +1,4 @@
-package abstractDemo;
+package com.adarsh.abstractDemo;
 
 public class Main {
     public static void main(String[] args) {

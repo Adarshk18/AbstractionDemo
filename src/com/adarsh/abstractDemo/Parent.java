@@ -1,4 +1,4 @@
-package abstractDemo;
+package com.adarsh.abstractDemo;
 
 public abstract class Parent {
     int age;
@@ -7,7 +7,8 @@ public abstract class Parent {
         this.age = age;
     }
 
-    abstract void career();
+
+   abstract  void career();
     abstract void partner();
 
 }

@@ -1,6 +1,6 @@
-package abstractDemo;
+package com.adarsh.abstractDemo;
 
-public class Son extends Parent{
+public class Son extends Parent {
     public Son(int age) {
        super(age);
     }
